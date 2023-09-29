@@ -456,6 +456,7 @@ table {
 	background: url('../img/my-photo.jpeg') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
+	margin-top: 10%;
 	height:auto;
 	background-color: #FBFBFB;
 }
