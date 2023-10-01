@@ -1,3 +1,7 @@
+$(document).ready(function() {
+    $('#open-button').trigger('click');
+});
+
 $(window).load(function(){
 	$('#preloader').fadeOut('slow',function(){$(this).remove();});
 });
